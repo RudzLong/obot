@@ -1,0 +1,2 @@
+# obot
+Bot g jelas
